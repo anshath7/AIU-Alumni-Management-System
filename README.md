@@ -1,7 +1,7 @@
 # AIU Alumni Management System
 The AIU - Alumni Management System is a comprehensive web-based application designed to bridge the gap between alumni and their alma mater. This project was developed as an academic group project at Albukhary International University (AIU), Malaysia. It serves as a dynamic platform for managing alumni records, organizing events, posting career opportunities, and fostering community through forums and success stories.
 
-<img width="1901" height="862" alt="Screenshot 2025-12-24 153829" src="https://github.com/user-attachments/assets/9d058ee9-62e3-4469-96b3-caaf9b1c20e6" />
+<img width="1901" height="862" alt="Image" src="https://github.com/user-attachments/assets/a1a1a606-41b3-4a29-af95-bbd6847f12e8" />
 
 ## Features
 
@@ -10,7 +10,7 @@ The AIU - Alumni Management System is a comprehensive web-based application desi
 - **Alumni**: Can search alumni, post jobs, view events.
 - **Student**: Can view events and alumni list (limited access).
   
-<img width="1897" height="859" alt="Screenshot 2025-12-24 155319" src="https://github.com/user-attachments/assets/47f35083-f9ab-4ac6-9211-3e7761a03adf" />
+<img width="1897" height="859" alt="Image" src="https://github.com/user-attachments/assets/1d74def4-e3b6-4ecb-89bc-4c85d468ed90" />
 
 
 ### User Side
@@ -21,9 +21,9 @@ The AIU - Alumni Management System is a comprehensive web-based application desi
 - Events Calendar : Stay updated with upcoming reunions, seminars, and workshops.
 - Registration & Login : Secure account creation for alumni and students.
 
-<img width="1897" height="864" alt="Screenshot 2025-12-24 154743" src="https://github.com/user-attachments/assets/516ba5ca-ab62-43a7-98f8-10aff3572269" />  <br/> <br/>
+<img width="1897" height="864" alt="Image" src="https://github.com/user-attachments/assets/6fcc1374-3e84-4ba5-ae1c-1175cbba96c8" />  <br/> <br/>
 
-<img width="1896" height="868" alt="Screenshot 2025-12-24 154836" src="https://github.com/user-attachments/assets/890cb5ec-95c7-4d56-872d-f130f18a9835" />
+<img width="1896" height="868" alt="Image" src="https://github.com/user-attachments/assets/2e1002bb-287d-4931-924e-3a8561ffb238" />
 
 
 
@@ -35,10 +35,10 @@ The AIU - Alumni Management System is a comprehensive web-based application desi
 - Manage Users : Add new admin and manage other users.
 - System Settings : Configure site information and other global settings.
 
-<img width="1914" height="859" alt="Screenshot 2025-12-24 155118" src="https://github.com/user-attachments/assets/0b833292-e7e0-4825-a9b9-b38d4596f848" />  <br/> <br/>
+<img width="1914" height="859" alt="Image" src="https://github.com/user-attachments/assets/e543b6b9-f9b7-4eb3-9c52-1e9bcfae88f8" />  <br/> <br/>
 
 
-<img width="1916" height="875" alt="Screenshot 2025-12-24 155234" src="https://github.com/user-attachments/assets/f444e86f-2874-44c3-9560-9285f420a370" />
+<img width="1916" height="875" alt="Image" src="https://github.com/user-attachments/assets/2ac91345-cb2f-4793-96b1-f49e5a91bc98" />
 
 
 ## Demo Video
@@ -47,7 +47,7 @@ A short demonstration of the system showing:
 - Admin dashboard
 - Job postings and forums
 
-> Demo video link will be added here.
+> Project Demo - https://drive.google.com/drive/folders/125ymNVp1BalF40XG0sKxiVc8FhhJ3Qgr?usp=sharing 
 
 
 ## Technology Stack
@@ -119,4 +119,4 @@ Anshath Ahamed Ajumil - anshath7@gmail.com
 
 Project Link - https://github.com/anshath7/AIU-Alumni-Management-System
 
-Project Demo - https://drive.google.com/drive/folders/125ymNVp1BalF40XG0sKxiVc8FhhJ3Qgr?usp=sharing
+
